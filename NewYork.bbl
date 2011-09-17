@@ -27,6 +27,7 @@
   \list{publisher}{1}{%
     {Penguin Classics}%
   }
+  \keyw{prim}
   \strng{namehash}{CS1}
   \strng{fullhash}{CS1}
   \field{sortinit}{C}
@@ -36,6 +37,236 @@
   \field{title}{Maggie: A Girl of the Streets and Other Tales of New York}
   \field{journaltitle}{Zur linguistischen Begr{\"u}dung}
   \field{year}{2000}
+\endentry
+
+\entry{conspiracity}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Dallmann}{D.}%
+     {Antje}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Universit{\"a}tsverlag Winter}%
+  }
+  \keyw{sec}
+  \strng{namehash}{DA1}
+  \strng{fullhash}{DA1}
+  \field{sortinit}{D}
+  \true{singletitle}
+  \field{series}{American Studies: A Monograph Series}
+  \field{title}{ConspiraCity New York: Gro{\ss}stadtbetrachtung zwischen
+  Paranoia und Selbsterm{\"a}chtigung}
+  \field{volume}{176}
+  \list{location}{1}{%
+    {Heidelberg}%
+  }
+  \field{year}{2009}
+\endentry
+
+\entry{vision}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Gates}{G.}%
+     {Robert~A.}{R.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {University Press of America}%
+  }
+  \keyw{sec}
+  \strng{namehash}{GRA1}
+  \strng{fullhash}{GRA1}
+  \field{sortinit}{G}
+  \true{singletitle}
+  \field{title}{The New York Vision: Interpretations of New York CIty in the
+  American Novel}
+  \list{location}{1}{%
+    {Lanham}%
+  }
+  \field{year}{1987}
+\endentry
+
+\entry{challenges}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Hall}{H.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Sutcliffe}{S.}%
+     {Anthony}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {The Universit of Chicago Press}%
+  }
+  \keyw{sec}
+  \strng{namehash}{HP1}
+  \strng{fullhash}{HP1}
+  \field{sortinit}{H}
+  \true{singletitle}
+  \field{booktitle}{Metropolis 1890-1940}
+  \field{pages}{19\bibrangedash 66}
+  \field{title}{Metropolis 1890-1940: Challenges and Responses}
+  \list{location}{1}{%
+    {Chicago}%
+  }
+  \field{year}{1984}
+\endentry
+
+\entry{metropole}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Ickstadt}{I.}%
+     {Heinz}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Knilli}{K.}%
+     {Friedrich}{F.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Universit{\"a}tsverlag Winter}%
+  }
+  \keyw{sec}
+  \strng{namehash}{IH1}
+  \strng{fullhash}{IH1}
+  \field{sortinit}{I}
+  \true{singletitle}
+  \field{booktitle}{Medium Metropole: Berlin, Paris, New York}
+  \field{pages}{111\bibrangedash 124}
+  \field{title}{New York und der Stadtroman der amerikanischen Moderne}
+  \list{location}{1}{%
+    {Heidelberg}%
+  }
+  \field{year}{1986}
+\endentry
+
+\entry{capitalism}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Jackson}{J.}%
+     {Kenneth~T.}{K.~T.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Sutcliffe}{S.}%
+     {Anthony}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {The Universit of Chicago Press}%
+  }
+  \keyw{sec}
+  \strng{namehash}{JKT1}
+  \strng{fullhash}{JKT1}
+  \field{sortinit}{J}
+  \true{singletitle}
+  \field{booktitle}{Metropolis 1890-1940}
+  \field{pages}{319\bibrangedash 354}
+  \field{title}{The Capital of Capitalism: The New York Metropolitan Region,
+  1890-1940}
+  \list{location}{1}{%
+    {Chicago}%
+  }
+  \field{year}{1984}
+\endentry
+
+\entry{literature}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Keating}{K.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Sutcliffe}{S.}%
+     {Anthony}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {The Universit of Chicago Press}%
+  }
+  \keyw{sec}
+  \strng{namehash}{KP1}
+  \strng{fullhash}{KP1}
+  \field{sortinit}{K}
+  \true{singletitle}
+  \field{booktitle}{Metropolis 1890-1940}
+  \field{pages}{129\bibrangedash 146}
+  \field{title}{The Metropolis in Literature}
+  \list{location}{1}{%
+    {Chicago}%
+  }
+  \field{year}{1984}
+\endentry
+
+\entry{history}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Lankevich}{L.}%
+     {George~J.}{G.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Furer}{F.}%
+     {Howard~B.}{H.~B.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Associated Faculty Press}%
+  }
+  \keyw{sec}
+  \strng{namehash}{LGJFHB1}
+  \strng{fullhash}{LGJFHB1}
+  \field{sortinit}{L}
+  \true{singletitle}
+  \field{title}{A Brief History of New York City}
+  \list{location}{1}{%
+    {New York City}%
+  }
+  \field{year}{1984}
+\endentry
+
+\entry{place}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Lutwack}{L.}%
+     {Leonard}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Syracuse University Press}%
+  }
+  \keyw{sec}
+  \strng{namehash}{LL1}
+  \strng{fullhash}{LL1}
+  \field{sortinit}{L}
+  \true{singletitle}
+  \field{title}{The Role of Place in Literature}
+  \list{location}{1}{%
+    {Syracuse}%
+  }
+  \field{year}{1984}
 \endentry
 
 \entry{urbanspace}{book}{}
@@ -49,6 +280,7 @@
   \list{publisher}{1}{%
     {Peter Lang}%
   }
+  \keyw{sec}
   \strng{namehash}{SIB1}
   \strng{fullhash}{SIB1}
   \field{sortinit}{S}
@@ -59,6 +291,62 @@
     {Bern}%
   }
   \field{year}{2011}
+\endentry
+
+\entry{roman}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Schaller}{S.}%
+     {Hans~W.}{H.~W.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Ernst Klett}%
+  }
+  \keyw{sec}
+  \strng{namehash}{SHW1}
+  \strng{fullhash}{SHW1}
+  \field{sortinit}{S}
+  \true{singletitle}
+  \field{series}{Uni-Wissen Anglistik, Amerikanistik}
+  \field{title}{Der amerikanische Roman des 20. Jahrhunderts}
+  \list{location}{1}{%
+    {Leipzig}%
+  }
+  \field{year}{1998}
+\endentry
+
+\entry{metropolis}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Sutcliffe}{S.}%
+     {Anthony}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Sutcliffe}{S.}%
+     {Anthony}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {The Universit of Chicago Press}%
+  }
+  \keyw{sec}
+  \strng{namehash}{SA1}
+  \strng{fullhash}{SA1}
+  \field{sortinit}{S}
+  \true{singletitle}
+  \field{booktitle}{Metropolis 1890-1940}
+  \field{pages}{1\bibrangedash 18}
+  \field{title}{Introduction: Urbanization, Planning and the Giant City}
+  \list{location}{1}{%
+    {Chicago}%
+  }
+  \field{year}{1984}
 \endentry
 
 \entry{portrait}{book}{}
@@ -72,6 +360,7 @@
   \list{publisher}{1}{%
     {Kennikat Press}%
   }
+  \keyw{sec}
   \strng{namehash}{ZJ1}
   \strng{fullhash}{ZJ1}
   \field{sortinit}{Z}

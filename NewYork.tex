@@ -5,7 +5,7 @@
 \usepackage{amssymb}
 \usepackage{epstopdf}
 \usepackage[latin1]{inputenc}
-\usepackage[american]{babel}
+\usepackage[english]{babel}
 \usepackage[T1]{fontenc}
 \usepackage{enumitem}
 \usepackage{stmaryrd}
@@ -22,11 +22,13 @@
 \usepackage{ifthen}
 \setcitestyle{notesep={  }}
 \usepackage{csquotes}
-\usepackage[style=mla]{biblatex}
+\usepackage[style=mla,guessmedium=false]{biblatex}
 
 \usepackage{ifpdf}
 \usepackage{mla}
+\defbibheading{prim}{\section{Primary Literature}}
 \bibliography{prim}
+\defbibheading{sec}{\section{Secondary Literature}}
 \bibliography{sec}
 
 \makeatletter
@@ -54,8 +56,12 @@
 
 %Ab hier Schreiben
  \autocite[34]{portrait}
-\autocite[23]{maggie} \autocite[42]{urbanspace}
+\autocite[23]{maggie} \autocite[42]{urbanspace} \autocite[23]{metropole} \autocite[87]{history}
 \newpage
-\printbibliography
+\nocite{*}
+\section*{\bf{Works Cited}}
+
+\printbibliography[heading=prim,keyword=prim]
+\printbibliography[heading=sec,keyword=sec]
 \end{mla}
 \end{document}

@@ -16,46 +16,51 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: NewYork-blx.bib
 Database file #2: prim.bib
 Database file #3: sec.bib
+Repeated entry---line 12 of file sec.bib
+ : @article{maggie
+ :                ,
+I'm skipping whatever remains of this entry
 Biblatex version: 1.5
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 4 entries,
+You've used 14 entries,
             5995 wiz_defined-function locations,
-            1138 strings with 8412 characters,
-and the built_in function-call counts, 11382 in all, are:
-= -- 573
-> -- 359
-< -- 135
-+ -- 145
-- -- 96
-* -- 581
-:= -- 812
+            1196 strings with 9592 characters,
+and the built_in function-call counts, 51632 in all, are:
+= -- 2879
+> -- 1549
+< -- 718
++ -- 655
+- -- 362
+* -- 2820
+:= -- 2798
 add.period$ -- 0
-call.type$ -- 4
-change.case$ -- 94
+call.type$ -- 14
+change.case$ -- 554
 chr.to.int$ -- 34
-cite$ -- 6
-duplicate$ -- 1164
-empty$ -- 1156
-format.name$ -- 164
-if$ -- 2660
+cite$ -- 26
+duplicate$ -- 5675
+empty$ -- 5168
+format.name$ -- 785
+if$ -- 12152
 int.to.chr$ -- 0
-int.to.str$ -- 11
+int.to.str$ -- 56
 missing$ -- 0
-newline$ -- 88
-num.names$ -- 197
-pop$ -- 990
+newline$ -- 374
+num.names$ -- 1016
+pop$ -- 4162
 preamble$ -- 1
-purify$ -- 97
+purify$ -- 569
 quote$ -- 0
-skip$ -- 733
+skip$ -- 3381
 stack$ -- 0
-substring$ -- 493
-swap$ -- 366
-text.length$ -- 91
-text.prefix$ -- 3
+substring$ -- 2489
+swap$ -- 1857
+text.length$ -- 345
+text.prefix$ -- 13
 top$ -- 1
-type$ -- 140
+type$ -- 520
 warning$ -- 0
-while$ -- 105
+while$ -- 300
 width$ -- 0
-write$ -- 83
+write$ -- 359
+(There was 1 error message)

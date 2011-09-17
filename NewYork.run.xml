@@ -57,8 +57,6 @@
       <file>standard.bbx</file>
       <file>mla.cbx</file>
       <file>biblatex.cfg</file>
-      <file>american-mla.lbx</file>
-      <file>american.lbx</file>
       <file>english-mla.lbx</file>
       <file>english.lbx</file>
     </requires>
