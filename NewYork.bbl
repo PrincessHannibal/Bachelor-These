@@ -1,0 +1,44 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 1.5 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{maggie}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Crane}{C.}%
+     {Stephen}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Penguin Classics}%
+  }
+  \strng{namehash}{CS1}
+  \strng{fullhash}{CS1}
+  \field{sortinit}{C}
+  \true{singletitle}
+  \field{number}{3}
+  \field{pages}{123\bibrangedash 125}
+  \field{title}{Maggie: A Girl of the Streets and Other Tales of New York}
+  \field{journaltitle}{Zur linguistischen Begr{\"u}dung}
+  \field{year}{2000}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput

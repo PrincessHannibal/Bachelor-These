@@ -1,0 +1,60 @@
+This is BibTeX, Version 0.99d (TeX Live 2011)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: NewYork.aux
+The style file: biblatex.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: NewYork-blx.bib
+Database file #2: prim.bib
+Biblatex version: 1.5
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 2 entries,
+            5995 wiz_defined-function locations,
+            1125 strings with 8140 characters,
+and the built_in function-call counts, 4582 in all, are:
+= -- 223
+> -- 154
+< -- 42
++ -- 72
+- -- 48
+* -- 219
+:= -- 465
+add.period$ -- 0
+call.type$ -- 2
+change.case$ -- 27
+chr.to.int$ -- 34
+cite$ -- 2
+duplicate$ -- 385
+empty$ -- 446
+format.name$ -- 54
+if$ -- 1055
+int.to.chr$ -- 0
+int.to.str$ -- 3
+missing$ -- 0
+newline$ -- 44
+num.names$ -- 60
+pop$ -- 356
+preamble$ -- 1
+purify$ -- 28
+quote$ -- 0
+skip$ -- 282
+stack$ -- 0
+substring$ -- 236
+swap$ -- 127
+text.length$ -- 41
+text.prefix$ -- 1
+top$ -- 1
+type$ -- 64
+warning$ -- 0
+while$ -- 69
+width$ -- 0
+write$ -- 41
