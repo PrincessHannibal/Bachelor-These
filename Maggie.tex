@@ -1,0 +1,85 @@
+\documentclass[12pt]{scrartcl}
+\usepackage{geometry}                % See geometry.pdf to learn the layout options. There are lots.
+%\geometry{a4paper}  
+\geometry{a4paper, top=25mm, left=35mm, right=35mm, bottom=25mm}                 % ... or a4paper or a5paper or ... 
+%\geometry{landscape}                % Activate for for rotated page geometry
+%\usepackage[parfill]{parskip}    % Activate to begin paragraphs with an empty line rather than an indent
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{epstopdf}
+\usepackage[latin1]{inputenc}
+\usepackage[english]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{ulem}
+\usepackage{enumitem}
+\usepackage{stmaryrd}
+\usepackage{makeidx}
+\makeindex
+\usepackage{amsmath}
+\numberwithin{equation}{section}
+\usepackage{hyperref}
+\usepackage{underlin}
+\usepackage{qtree}
+\usepackage{tipa}
+\usepackage{natbib}
+\usepackage{subfigure}
+\usepackage{ifthen}
+\setcitestyle{notesep={  }}
+\usepackage{multibib}
+\newcites{prim}{Primary sources}
+\newcites{sec}{Secondary sources}
+
+\makeatletter
+\renewcommand\@cite[2]{
+  ({ #1\ifthenelse{\boolean{@tempswa}}{ \nolinebreak[3] #2}{}})
+}
+\makeatother
+%\usepackage{cite}
+%\pagestyle{headings}
+
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
+
+%\tableofcontents
+\newpage                                        % Activate to display a given date or no date
+
+\begin{document}
+\newcommand{\attrib}[1]{\nopagebreak{\raggedleft\footnotesize #1\par}}
+
+\begin{flushleft}Bergische Universität Wuppertal \\ Anglistik/Amerikanistik \\ WS 2010/11 New York in American Literature \\Prof. Dr. Jürgen Wolter \end{flushleft} 
+\begin{center}
+\\ \\ \\ \vspace{25mm}\LARGE
+\textbf{The Environment of Maggie in Crane's \\ \textit{Maggie: A Girl of the Streets}}
+\end{center}
+\vspace{15mm}
+\begin{center}
+\includegraphics[width=0.5\textwidth]{siegel.png}
+\end{center}
+\\ \\ \large
+\begin{center}
+\\ \\ \\ \vspace{15mm}
+Kim Vahnenbruck\\
+829011\\ 
+829011@uni-wuppertal.de\\
+kombinatorischer Bachelor\\
+5. Fachsemester\\
+Modul: CIII\\ 
+Leistungspunkte: 6\\
+26. April 2011 \\
+\end{center}
+\thispagestyle{empty}
+\newpage
+\tableofcontents
+\thispagestyle{empty}
+\newpage    
+\citeprim{maggie}
+\citesec{vision}
+
+\setcounter{page}{1}
+\renewcommand{\baselinestretch}{1.50}\normalsize
+
+\bibliographystyleprim{plain}
+\bibliographyprim{prim.bib}
+\bibliographystylesec{plain}
+\bibliographysec{sec.bib}
+%\bibliography{sec}{art-bib}{References to articles}
+\end{document}
