@@ -85,6 +85,7 @@
     </requires>
     <requires type="editable">
       <file>prim.bib</file>
+      <file>sec.bib</file>
     </requires>
     <requires type="static">
       <file>biblatex.bst</file>

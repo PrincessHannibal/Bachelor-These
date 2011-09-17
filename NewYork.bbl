@@ -38,6 +38,51 @@
   \field{year}{2000}
 \endentry
 
+\entry{urbanspace}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Sauter}{S.}%
+     {Irene~Belleter}{I.~B.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Peter Lang}%
+  }
+  \strng{namehash}{SIB1}
+  \strng{fullhash}{SIB1}
+  \field{sortinit}{S}
+  \true{singletitle}
+  \field{title}{New York City: "Gilt Cage" or "Promised Land?" Representations
+  of Urban Space in Edith Wharton an Anzia Yezierska}
+  \list{location}{1}{%
+    {Bern}%
+  }
+  \field{year}{2011}
+\endentry
+
+\entry{portrait}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Zlotnick}{Z.}%
+     {Joan}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Kennikat Press}%
+  }
+  \strng{namehash}{ZJ1}
+  \strng{fullhash}{ZJ1}
+  \field{sortinit}{Z}
+  \true{singletitle}
+  \field{title}{Portrait of an American City: The Novelists' New York}
+  \list{location}{1}{%
+    {Port Washington}%
+  }
+  \field{year}{1982}
+\endentry
+
 \lossort
 \endlossort
 
