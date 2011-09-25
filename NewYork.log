@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.24)  18 SEP 2011 00:44
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.9.18)  25 SEP 2011 23:00
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
 **NewYork.tex
 (./NewYork.tex
-LaTeX2e <2009/09/24>
-Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
-rman-x-2009-06-19, ngerman-x-2009-06-19, afrikaans, ancientgreek, ibycus, arabi
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2011-07-01, ngerman-x-2011-07-01, afrikaans, ancientgreek, ibycus, arabi
 c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
 h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
 h, french, galician, german, ngerman, swissgerman, monogreek, greek, hungarian,
@@ -17,14 +17,15 @@ ish, portuguese, romanian, russian, sanskrit, serbian, serbianc, slovak, sloven
 ian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, welsh, loaded
 .
 (/usr/local/texlive/2011/texmf-dist/tex/latex/koma-script/scrartcl.cls
-Document Class: scrartcl 2011/04/02 v3.09 KOMA-Script document class (article)
+Document Class: scrartcl 2011/06/16 v3.09a KOMA-Script document class (article)
+
 (/usr/local/texlive/2011/texmf-dist/tex/latex/koma-script/scrkbase.sty
-Package: scrkbase 2011/04/02 v3.09 KOMA-Script package (KOMA-Script-dependent b
-asics and keyval usage)
+Package: scrkbase 2011/06/16 v3.09a KOMA-Script package (KOMA-Script-dependent 
+basics and keyval usage)
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/koma-script/scrbase.sty
-Package: scrbase 2011/04/02 v3.09 KOMA-Script package (KOMA-Script-independent 
-basics and keyval usage)
+Package: scrbase 2011/06/16 v3.09a KOMA-Script package (KOMA-Script-independent
+ basics and keyval usage)
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
@@ -37,7 +38,7 @@ Package scrlfile, 2011/03/09 v3.09 KOMA-Script package (loading files)
                   Copyright (C) Markus Kohm
 
 ))) (/usr/local/texlive/2011/texmf-dist/tex/latex/koma-script/tocbasic.sty
-Package: tocbasic 2011/03/23 v3.09 KOMA-Script package (handling toc-files)
+Package: tocbasic 2011/05/30 v3.09a KOMA-Script package (handling toc-files)
 )
 Package tocbasic Info: omitting babel extension for `toc'
 (tocbasic)             because of feature `nobabel' available
@@ -54,16 +55,16 @@ Package scrartcl Info: You've used obsolete option `12pt'.
 (scrartcl)             You may simply replace `12pt'
 (scrartcl)             by `fontsize=12pt'.
 Class scrartcl Info: File `scrsize12pt.clo' used to setup font sizes on input l
-ine 1246.
+ine 1247.
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/koma-script/scrsize12pt.clo
-File: scrsize12pt.clo 2011/04/02 v3.09 KOMA-Script font size class option (12pt
-)
+File: scrsize12pt.clo 2011/06/16 v3.09a KOMA-Script font size class option (12p
+t)
 )
 (/usr/local/texlive/2011/texmf-dist/tex/latex/koma-script/typearea.sty
-Package: typearea 2011/04/02 v3.09 KOMA-Script package (type area)
+Package: typearea 2011/06/16 v3.09a KOMA-Script package (type area)
 
-Package typearea, 2011/04/02 v3.09 KOMA-Script package (type area)
+Package typearea, 2011/06/16 v3.09a KOMA-Script package (type area)
                   Copyright (C) Frank Neukam, 1992-1994
                   Copyright (C) Markus Kohm, 1994-
 
@@ -88,7 +89,7 @@ Package typearea Info: These are the values describing the layout:
 (typearea)              \topskip        = 12.0pt
 (typearea)              \footskip       = 50.75pt
 (typearea)              \baselineskip   = 14.5pt
-(typearea)              on input line 1138.
+(typearea)              on input line 1139.
 )
 \c@part=\count80
 \c@section=\count81
@@ -223,13 +224,13 @@ Package: inputenc 2008/03/30 v1.1d Input encoding file
 File: latin1.def 2008/03/30 v1.1d Input encoding file
 ))
 (/usr/local/texlive/2011/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2008/07/06 v3.8l The Babel package
+Package: babel 2008/07/08 v3.8m The Babel package
 
 (/usr/local/texlive/2011/texmf-dist/tex/generic/babel/english.ldf
 Language: english 2005/03/30 v3.3o English support from the babel system
 
 (/usr/local/texlive/2011/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2008/07/06 v3.8l Babel common definitions
+File: babel.def 2008/07/08 v3.8m Babel common definitions
 \babel@savecnt=\count92
 \U@D=\dimen113
 )
@@ -245,11 +246,12 @@ File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 ))
 (/usr/local/texlive/2011/texmf-dist/tex/latex/enumitem/enumitem.sty
-Package: enumitem 2009/05/18 v2.2 Customized lists
-\enit@toks=\toks19
+Package: enumitem 2011/09/05 v3.5.1 Customized lists
 \labelindent=\skip47
 \enit@outerparindent=\dimen114
-\enitdp@desc=\count93
+\enit@toks=\toks19
+\enit@inbox=\box27
+\enitdp@description=\count93
 )
 (/usr/local/texlive/2011/texmf-dist/tex/latex/stmaryrd/stmaryrd.sty
 Package: stmaryrd 1994/03/03 St Mary's Road symbol package
@@ -295,8 +297,8 @@ LaTeX Info: Redefining \overline on input line 307.
 LaTeX Info: Redefining \ldots on input line 379.
 LaTeX Info: Redefining \dots on input line 382.
 LaTeX Info: Redefining \cdots on input line 467.
-\Mathstrutbox@=\box27
-\strutbox@=\box28
+\Mathstrutbox@=\box28
+\strutbox@=\box29
 \big@size=\dimen117
 LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
@@ -324,7 +326,7 @@ LaTeX Info: Redefining \[ on input line 2666.
 LaTeX Info: Redefining \] on input line 2667.
 )
 (/usr/local/texlive/2011/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2011/04/17 v6.82g Hypertext links for LaTeX
+Package: hyperref 2011/08/19 v6.82h Hypertext links for LaTeX
 
 (/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 Package: hobsub-hyperref 2011/04/23 v1.4 Bundle oberdiek, subset hyperref (HO)
@@ -352,7 +354,6 @@ Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
 Package: hopatch 2011/01/30 v1.0 Wrapper for package hooks (HO)
 Package: xcolor-patch 2011/01/30 xcolor patch
 Package: atveryend 2011/04/23 v1.7 Hooks at very end of document (HO)
-Package atveryend Info: \enddocument detected (standard).
 Package: atbegshi 2011/01/30 v1.15 At begin shipout hook (HO)
 Package: refcount 2010/12/01 v3.2 Data extraction from references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options of hyperref/bookmark (HO)
@@ -362,39 +363,39 @@ Package: hycolor 2011/01/30 v1.7 Color options of hyperref/bookmark (HO)
 \Hy@pagecounter=\count107
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2011/04/17 v6.82g Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2011/08/19 v6.82h Hyperref: PDFDocEncoding definition (HO)
 )
 \Hy@SavedSpaceFactor=\count108
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Hyper figures OFF on input line 4026.
-Package hyperref Info: Link nesting OFF on input line 4031.
-Package hyperref Info: Hyper index ON on input line 4034.
-Package hyperref Info: Plain pages OFF on input line 4041.
-Package hyperref Info: Backreferencing OFF on input line 4046.
+Package hyperref Info: Hyper figures OFF on input line 4053.
+Package hyperref Info: Link nesting OFF on input line 4058.
+Package hyperref Info: Hyper index ON on input line 4061.
+Package hyperref Info: Plain pages OFF on input line 4068.
+Package hyperref Info: Backreferencing OFF on input line 4073.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4264.
+Package hyperref Info: Bookmarks ON on input line 4291.
 \c@Hy@tempcnt=\count109
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
 Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4617.
+LaTeX Info: Redefining \url on input line 4644.
 \Fld@menulength=\count110
 \Field@Width=\dimen125
 \Fld@charsize=\dimen126
-Package hyperref Info: Hyper figures OFF on input line 5701.
-Package hyperref Info: Link nesting OFF on input line 5706.
-Package hyperref Info: Hyper index ON on input line 5709.
-Package hyperref Info: backreferencing OFF on input line 5716.
-Package hyperref Info: Link coloring OFF on input line 5721.
-Package hyperref Info: Link coloring with OCG OFF on input line 5726.
-Package hyperref Info: PDF/A mode OFF on input line 5731.
-LaTeX Info: Redefining \ref on input line 5771.
-LaTeX Info: Redefining \pageref on input line 5775.
+Package hyperref Info: Hyper figures OFF on input line 5730.
+Package hyperref Info: Link nesting OFF on input line 5735.
+Package hyperref Info: Hyper index ON on input line 5738.
+Package hyperref Info: backreferencing OFF on input line 5745.
+Package hyperref Info: Link coloring OFF on input line 5750.
+Package hyperref Info: Link coloring with OCG OFF on input line 5755.
+Package hyperref Info: PDF/A mode OFF on input line 5760.
+LaTeX Info: Redefining \ref on input line 5800.
+LaTeX Info: Redefining \pageref on input line 5804.
 \Hy@abspage=\count111
 \c@Item=\count112
 \c@Hfootnote=\count113
@@ -403,7 +404,7 @@ LaTeX Info: Redefining \pageref on input line 5775.
 Package hyperref Message: Driver (autodetected): hpdftex.
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2011/04/17 v6.82g Hyperref driver for pdfTeX
+File: hpdftex.def 2011/08/19 v6.82h Hyperref driver for pdfTeX
 \Fld@listcount=\count114
 \c@bookmark@seq@number=\count115
 
@@ -439,28 +440,28 @@ File: p2e-pdftex.def 2011/04/05 v0.1t Driver-dependant file (RN,HjG,JT)
 )
 \c@treecount=\count116
 \c@branchcount=\count117
-\parentbox=\box29
-\treebox=\box30
-\treeboxone=\box31
-\treeboxtwo=\box32
-\treeboxthree=\box33
-\treeboxfour=\box34
-\treeboxfive=\box35
-\treeboxsix=\box36
-\treeboxseven=\box37
-\treeboxeight=\box38
-\treeboxnine=\box39
-\treeboxten=\box40
-\treeboxeleven=\box41
-\treeboxtwelve=\box42
-\treeboxthirteen=\box43
-\treeboxfourteen=\box44
-\treeboxfifteen=\box45
-\treeboxsixteen=\box46
-\treeboxseventeen=\box47
-\treeboxeighteen=\box48
-\treeboxnineteen=\box49
-\treeboxtwenty=\box50
+\parentbox=\box30
+\treebox=\box31
+\treeboxone=\box32
+\treeboxtwo=\box33
+\treeboxthree=\box34
+\treeboxfour=\box35
+\treeboxfive=\box36
+\treeboxsix=\box37
+\treeboxseven=\box38
+\treeboxeight=\box39
+\treeboxnine=\box40
+\treeboxten=\box41
+\treeboxeleven=\box42
+\treeboxtwelve=\box43
+\treeboxthirteen=\box44
+\treeboxfourteen=\box45
+\treeboxfifteen=\box46
+\treeboxsixteen=\box47
+\treeboxseventeen=\box48
+\treeboxeighteen=\box49
+\treeboxnineteen=\box50
+\treeboxtwenty=\box51
 \treeoffsetone=\skip52
 \treeoffsettwo=\skip53
 \treeoffsetthree=\skip54
@@ -540,7 +541,7 @@ File: p2e-pdftex.def 2011/04/05 v0.1t Driver-dependant file (RN,HjG,JT)
 \nbranches=\count118
 \qroofx=\count119
 \qroofy=\count120
-\@qrscratchbox=\box51
+\@qrscratchbox=\box52
 )
 (/usr/local/texlive/2011/texmf-dist/tex/latex/tipa/tipa.sty
 Package: tipa 2002/08/08 TIPA version 1.1
@@ -620,7 +621,7 @@ Package csquotes Info: ... configuration file loaded successfully.
 File: csquotes.cfg 
 ))
 (/usr/local/texlive/2011/texmf-dist/tex/latex/biblatex/biblatex.sty
-Package: biblatex 2011/06/08 v1.5 programmable bibliographies
+Package: biblatex 2011/07/29 v1.6 programmable bibliographies
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
@@ -657,11 +658,12 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 \c@parenlevel=\count160
 \blx@tempcnta=\count161
 \blx@tempcntb=\count162
-\blx@maxsection=\count163
-\blx@maxsegment=\count164
-\blx@notetype=\count165
-\blx@parenlevel@text=\count166
-\blx@parenlevel@foot=\count167
+\blx@tempcntc=\count163
+\blx@maxsection=\count164
+\blx@maxsegment=\count165
+\blx@notetype=\count166
+\blx@parenlevel@text=\count167
+\blx@parenlevel@foot=\count168
 \labelnumberwidth=\skip134
 \labelalphawidth=\skip135
 \shorthandwidth=\skip136
@@ -679,7 +681,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.381 \newlength{\bibhang}
+l.382 \newlength{\bibhang}
                           
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -687,72 +689,76 @@ or  <return>  to continue without it.
 
 \blx@auxin=\read1
 \blx@auxout=\write4
-\c@labelname=\count168
-\c@savedlabelname=\count169
-\c@author=\count170
-\c@savedauthor=\count171
-\c@shortauthor=\count172
-\c@savedshortauthor=\count173
-\c@editor=\count174
-\c@savededitor=\count175
-\c@editora=\count176
-\c@savededitora=\count177
-\c@editorb=\count178
-\c@savededitorb=\count179
-\c@editorc=\count180
-\c@savededitorc=\count181
-\c@shorteditor=\count182
-\c@savedshorteditor=\count183
-\c@bookauthor=\count184
-\c@savedbookauthor=\count185
-\c@translator=\count186
-\c@savedtranslator=\count187
-\c@annotator=\count188
-\c@savedannotator=\count189
-\c@commentator=\count190
-\c@savedcommentator=\count191
-\c@introduction=\count192
-\c@savedintroduction=\count193
-\c@foreword=\count194
-\c@savedforeword=\count195
-\c@afterword=\count196
-\c@savedafterword=\count197
-\c@holder=\count198
-\c@savedholder=\count199
-\c@namea=\count200
-\c@savednamea=\count201
-\c@nameb=\count202
-\c@savednameb=\count203
-\c@namec=\count204
-\c@savednamec=\count205
-\c@institution=\count206
-\c@savedinstitution=\count207
-\c@language=\count208
-\c@savedlanguage=\count209
-\c@location=\count210
-\c@savedlocation=\count211
-\c@organization=\count212
-\c@savedorganization=\count213
-\c@origlocation=\count214
-\c@savedoriglocation=\count215
-\c@origpublisher=\count216
-\c@savedorigpublisher=\count217
-\c@pageref=\count218
-\c@savedpageref=\count219
-\c@publisher=\count220
-\c@savedpublisher=\count221
-\c@lista=\count222
-\c@savedlista=\count223
-\c@listb=\count224
-\c@savedlistb=\count225
-\c@listc=\count226
-\c@savedlistc=\count227
-\c@listd=\count228
-\c@savedlistd=\count229
-\c@liste=\count230
-\c@savedliste=\count231
-\c@listf=\count232
-\c@savedlistf=\count233
+\c@mincomprange=\count169
+\c@maxcomprange=\count170
+\c@mincompwidth=\count171
+\c@labelname=\count172
+\c@savedlabelname=\count173
+\c@author=\count174
+\c@savedauthor=\count175
+\c@shortauthor=\count176
+\c@savedshortauthor=\count177
+\c@editor=\count178
+\c@savededitor=\count179
+\c@editora=\count180
+\c@savededitora=\count181
+\c@editorb=\count182
+\c@savededitorb=\count183
+\c@editorc=\count184
+\c@savededitorc=\count185
+\c@shorteditor=\count186
+\c@savedshorteditor=\count187
+\c@bookauthor=\count188
+\c@savedbookauthor=\count189
+\c@translator=\count190
+\c@savedtranslator=\count191
+\c@annotator=\count192
+\c@savedannotator=\count193
+\c@commentator=\count194
+\c@savedcommentator=\count195
+\c@introduction=\count196
+\c@savedintroduction=\count197
+\c@foreword=\count198
+\c@savedforeword=\count199
+\c@afterword=\count200
+\c@savedafterword=\count201
+\c@holder=\count202
+\c@savedholder=\count203
+\c@namea=\count204
+\c@savednamea=\count205
+\c@nameb=\count206
+\c@savednameb=\count207
+\c@namec=\count208
+\c@savednamec=\count209
+\c@institution=\count210
+\c@savedinstitution=\count211
+\c@language=\count212
+\c@savedlanguage=\count213
+\c@location=\count214
+\c@savedlocation=\count215
+\c@organization=\count216
+\c@savedorganization=\count217
+\c@origlocation=\count218
+\c@savedoriglocation=\count219
+\c@origpublisher=\count220
+\c@savedorigpublisher=\count221
+\c@pageref=\count222
+\c@savedpageref=\count223
+\c@publisher=\count224
+\c@savedpublisher=\count225
+\c@lista=\count226
+\c@savedlista=\count227
+\c@listb=\count228
+\c@savedlistb=\count229
+\c@listc=\count230
+\c@savedlistc=\count231
+\c@listd=\count232
+\c@savedlistd=\count233
+Normal \count register pool exhausted, switching to extended pool.
+\c@liste=\count277
+\c@savedliste=\count278
+\c@listf=\count279
+\c@savedlistf=\count280
 
 ! LaTeX Error: Command \citename already defined.
                Or name \end... illegal, see p.192 of the manual.
@@ -761,7 +767,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8001 ...d*{\citename}{\blx@citexpunct{citename}}
+l.8159 ...d*{\citename}{\blx@citexpunct{citename}}
                                                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -770,13 +776,13 @@ or  <return>  to continue without it.
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 (/usr/local/texlive/2011/texmf-dist/tex/latex/biblatex/blx-compat.def
-File: blx-compat.def 2011/06/08 v1.5 biblatex generic compatibility
+File: blx-compat.def 2011/07/29 v1.6 biblatex generic compatibility
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/biblatex/biblatex.def
-File: biblatex.def 2011/06/08 v1.5 biblatex generic definitions
+File: biblatex.def 2011/07/29 v1.6 biblatex generic definitions
 
 
 ! LaTeX Error: Command \bibfont already defined.
@@ -792,8 +798,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-Normal \count register pool exhausted, switching to extended pool.
-\c@smartand=\count277
+\c@smartand=\count281
 
 Package biblatex Warning: Redefining '\citeauthor'.
 
@@ -808,7 +813,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1673 ...d*{\Citeauthor}{\bibsentence\citeauthor}
+l.1675 ...d*{\Citeauthor}{\bibsentence\citeauthor}
                                                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -817,84 +822,99 @@ or  <return>  to continue without it.
 )
 Package biblatex Info: Trying to load bibliography style 'mla'...
 Package biblatex Info: ... file 'mla.bbx' found.
- (/usr/local/texlive/2011/texmf-dist/tex/latex/biblatex-mla/mla.bbx
-File: mla.bbx 2010/02/15 v0.9 biblatex bibliography style
+ (/usr/local/texlive/2011/texmf/tex/latex/bbx/mla.bbx
+! Undefined control sequence.
+<write> File: mla.bbx \blx@bbxid 
+                                 $Id: mla.bbx,v 0.7 2009/01/18 clawson beta$
+l.9 ...Id: mla.bbx,v 0.7 2009/01/18 clawson beta$]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+File: mla.bbx $Id: mla.bbx,v 0.7 2009/01/18 clawson beta$
+! Undefined control sequence.
+<argument> \blx@bbxid 
+                      $Id: mla.bbx,v 0.7 2009/01/18 clawson beta$
+l.9 ...Id: mla.bbx,v 0.7 2009/01/18 clawson beta$]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
-
 (/usr/local/texlive/2011/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
-File: standard.bbx 2011/06/08 v1.5 biblatex bibliography style
-))
-Package biblatex Info: Trying to load citation style 'mla'...
-Package biblatex Info: ... file 'mla.cbx' found.
-
-(/usr/local/texlive/2011/texmf-dist/tex/latex/biblatex-mla/mla.cbx
-File: mla.cbx 2010/02/15 v0.9 biblatex citation style
-Package biblatex Info: Redefining '\parencite'.
-Package biblatex Info: Redefining '\cite'.
-Package biblatex Info: Redefining '\footcite'.
-Package biblatex Info: Redefining '\fullcite'.
-)
-Package biblatex Info: Trying to load configuration file...
-Package biblatex Info: ... file 'biblatex.cfg' found.
-
-(/usr/local/texlive/2011/texmf-dist/tex/latex/biblatex/biblatex.cfg
-File: biblatex.cfg 
-))
-(/usr/local/texlive/2011/texmf-dist/tex/latex/mla-paper/mla.sty
-Package: mla 
-
-MLA Package - by Ryan Aycock
-(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
-
-(/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/color.cfg
-File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
-)
-Package color Info: Driver file: pdftex.def on input line 130.
+File: standard.bbx 2011/07/29 v1.6 biblatex bibliography style
 )
 
-! LaTeX Error: Option clash for package graphicx.
+! LaTeX Error: \lbx@typeeditor undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.69     \pdfpagewidth
-                      =\paperwidth
-The package graphicx has already been loaded with options:
-  []
-There has now been an attempt to load it with options
-  [pdftex]
-Adding the global options:
-  ,pdftex
-to your \documentclass declaration may fix this.
+l.1042 \renewcommand*{\lbx@typeeditor}
+                                      {% 0.7 - added support for "eds." when...
+
 Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
-(/usr/local/texlive/2011/texmf-dist/tex/generic/thumbpdf/thumbpdf.sty
-Package: thumbpdf 2010/07/07 v3.11 Inclusion of thumbnails (HO)
-
-
-Package thumbpdf Warning: Compressed PDF objects of PDF 1.5 are not supported.
-
-
-Package thumbpdf Warning: Thumbnail data file `NewYork.tpt' not found.
-
-) (/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/times.sty
-Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
 )
-(/usr/local/texlive/2011/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-\fancy@headwidth=\skip142
-\f@ncyO@elh=\skip143
-\f@ncyO@erh=\skip144
-\f@ncyO@olh=\skip145
-\f@ncyO@orh=\skip146
-\f@ncyO@elf=\skip147
-\f@ncyO@erf=\skip148
-\f@ncyO@olf=\skip149
-\f@ncyO@orf=\skip150
-))
-(/usr/local/texlive/2011/texmf-dist/tex/latex/cite/cite.sty
+Package biblatex Info: Trying to load citation style 'mla'...
+Package biblatex Info: ... file 'mla.cbx' found.
+ (/usr/local/texlive/2011/texmf/tex/latex/cbx/mla.cbx
+! Undefined control sequence.
+<write> File: mla.cbx \blx@cbxid 
+                                 $Id: mla.cbx,v 0.7 2009/01/18 clawson beta$
+l.9 ...Id: mla.cbx,v 0.7 2009/01/18 clawson beta$]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+File: mla.cbx $Id: mla.cbx,v 0.7 2009/01/18 clawson beta$
+! Undefined control sequence.
+<argument> \blx@cbxid 
+                      $Id: mla.cbx,v 0.7 2009/01/18 clawson beta$
+l.9 ...Id: mla.cbx,v 0.7 2009/01/18 clawson beta$]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\fullcite'.
+)
+\c@mladraftnote=\count282
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ (/usr/local/texlive/2011/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)
+
+! Package keyval Error: guessmedium undefined.
+
+See the keyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10059 \blx@processoptions
+                           
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+) (/usr/local/texlive/2011/texmf-dist/tex/latex/cite/cite.sty
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 373.
 Package: cite 2010/09/10  v 5.3
@@ -911,7 +931,7 @@ See the biblatex package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.47 \begin{document}
+l.56 \begin{document}
                      
 The 'cite' package and biblatex are incompatible.
 
@@ -922,48 +942,65 @@ See the biblatex package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.47 \begin{document}
+l.56 \begin{document}
                      
 The 'natbib' package and biblatex are incompatible.
 
 Package biblatex Info: Trying to load language 'english' -> 'english-mla'...
 Package biblatex Info: ... file 'english-mla.lbx' found.
-(/usr/local/texlive/2011/texmf-dist/tex/latex/biblatex-mla/english-mla.lbx
-File: english-mla.lbx 2010/12/27 v0.4 biblatex style localization
+(/usr/local/texlive/2011/texmf/tex/latex/lbx/english-mla.lbx
+! Undefined control sequence.
+<write> File: english-mla.lbx \blx@bbxid 
+                                         $Id: english-mla.lbx,v 0.1 2009/05/...
+l.3 ...ish-mla.lbx,v 0.1 2009/05/02 clawson beta$]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+File: english-mla.lbx $Id: english-mla.lbx,v 0.1 2009/05/02 clawson beta$
+! Undefined control sequence.
+<argument> \blx@bbxid 
+                      $Id: english-mla.lbx,v 0.1 2009/05/02 clawson beta$
+l.3 ...ish-mla.lbx,v 0.1 2009/05/02 clawson beta$]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
-
 (/usr/local/texlive/2011/texmf-dist/tex/latex/biblatex/lbx/english.lbx
-File: english.lbx 2011/06/08 v1.5 biblatex localization
+File: english.lbx 2011/07/29 v1.6 biblatex localization
 ))
 (./NewYork.aux)
 \openout1 = `NewYork.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 47.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 47.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 56.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 56.
  (/usr/local/texlive/2011/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 47.
+LaTeX Font Info:    ... okay on input line 56.
 
-(/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/t1ptm.fd
-File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
-)
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -974,23 +1011,23 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 * modes: 
 * h-part:(L,W,R)=(99.58464pt, 398.3386pt, 99.58464pt)
 * v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
-* \paperwidth=614.295pt
-* \paperheight=794.96999pt
-* \textwidth=469.75499pt
-* \textheight=650.43pt
-* \oddsidemargin=0.0pt
-* \evensidemargin=0.0pt
-* \topmargin=36.135pt
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=398.3386pt
+* \textheight=702.78308pt
+* \oddsidemargin=27.31465pt
+* \evensidemargin=27.31465pt
+* \topmargin=-41.0131pt
 * \headheight=18.125pt
-* \headsep=18.0pt
+* \headsep=21.75pt
 * \topskip=12.0pt
-* \footskip=40.0pt
-* \marginparwidth=0.0pt
-* \marginparsep=0.0pt
+* \footskip=50.75pt
+* \marginparwidth=49.79233pt
+* \marginparsep=12.8401pt
 * \columnsep=10.0pt
 * \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
-* \voffset=-72.26999pt
+* \voffset=0.0pt
 * \mag=1000
 * \@twocolumnfalse
 * \@twosidefalse
@@ -1000,31 +1037,31 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 
 (/usr/local/texlive/2011/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count278
+\scratchcounter=\count283
 \scratchdimen=\dimen132
-\scratchbox=\box52
-\nofMPsegments=\count279
-\nofMParguments=\count280
+\scratchbox=\box53
+\nofMPsegments=\count284
+\nofMParguments=\count285
 \everyMPshowfont=\toks29
-\MPscratchCnt=\count281
+\MPscratchCnt=\count286
 \MPscratchDim=\dimen133
-\MPnumerator=\count282
-\makeMPintoPDFobject=\count283
+\MPnumerator=\count287
+\makeMPintoPDFobject=\count288
 \everyMPtoPDFconversion=\toks30
 )
-\AtBeginShipoutBox=\box53
-Package hyperref Info: Link coloring OFF on input line 47.
+\AtBeginShipoutBox=\box54
+Package hyperref Info: Link coloring OFF on input line 56.
  (/usr/local/texlive/2011/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
 
 (/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count284
+\c@section@level=\count289
 )
-LaTeX Info: Redefining \ref on input line 47.
-LaTeX Info: Redefining \pageref on input line 47.
-LaTeX Info: Redefining \nameref on input line 47.
+LaTeX Info: Redefining \ref on input line 56.
+LaTeX Info: Redefining \pageref on input line 56.
+LaTeX Info: Redefining \nameref on input line 56.
 
 (./NewYork.out) (./NewYork.out)
 \@outlinefile=\write5
@@ -1043,67 +1080,330 @@ Package biblatex Warning: Data encoding is 'latin1'.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'NewYork.bbl' found.
 (./NewYork.bbl)
-Package biblatex Info: Reference section=0 on input line 47.
-Package biblatex Info: Reference segment=0 on input line 47.
+Package biblatex Info: Reference section=0 on input line 56.
+Package biblatex Info: Reference segment=0 on input line 56.
  [1
 
-{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for T1+phv on input line 52.
- (/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/t1phv.fd
-File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
-)
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 52.
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 52.
+{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./NewY
+ork.toc
+LaTeX Font Info:    Try loading font information for U+msa on input line 13.
 
-(./NewYork.toc)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 13.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+stmry on input line 13.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/stmaryrd/Ustmry.fd))
 \tf@toc=\write6
 \openout6 = `NewYork.toc'.
 
- [2]pdfTeX warning (ext4): destination with the same identifier (name{page.1}) 
-has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.60 \newpage
-              [1]
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 62.
-pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+ [2]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.92 \\
+       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.93 \\
+       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.65 \printbibliography[heading=sec,keyword=sec]
-                                                 [2] [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 67.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 67.
+l.104 \newpage
+               [1]pdfTeX warning (ext4): destination with the same identifier (
+name{page.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.104 \newpage
+               [2]
+
+! Package biblatex Error: Bibliography macro 'publisher+location+year' undefine
+d.
+
+See the biblatex package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.110 \printbibliography[heading=sec,keyword=sec]
+                                                 
+Use '\newbibmacro' to define this macro.
+
+
+Overfull \hbox (1.88991pt too wide) in paragraph at lines 110--110
+[]\T1/cmr/m/n/12 Antje Dall-mann. \T1/cmr/m/it/12 Con-spir-aC-ity New York: Gro
+ÿs-tadt-be-tra-ch-tung zwis-chen Para-
+ []
+
+
+! Package biblatex Error: Bibliography macro 'publisher+location+year' undefine
+d.
+
+See the biblatex package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.110 \printbibliography[heading=sec,keyword=sec]
+                                                 
+Use '\newbibmacro' to define this macro.
+
+! Undefined control sequence.
+\abx@sstr@byeditor ->\lbx@bytypeeditor 
+                                       
+l.110 \printbibliography[heading=sec,keyword=sec]
+                                                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! Package biblatex Error: Bibliography macro 'publisher+location+year' undefine
+d.
+
+See the biblatex package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.110 \printbibliography[heading=sec,keyword=sec]
+                                                 
+Use '\newbibmacro' to define this macro.
+
+
+Overfull \hbox (3.97389pt too wide) in paragraph at lines 110--110
+[]\T1/cmr/m/n/12 Peter Hall. ^^P  Metropo-lis 1890-1940: Chal-lenges and Re-spo
+nses^^Q. \T1/cmr/m/it/12 Metropo-lis 1890-
+ []
+
+! Undefined control sequence.
+\abx@sstr@byeditor ->\lbx@bytypeeditor 
+                                       
+l.110 \printbibliography[heading=sec,keyword=sec]
+                                                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! Package biblatex Error: Bibliography macro 'publisher+location+year' undefine
+d.
+
+See the biblatex package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.110 \printbibliography[heading=sec,keyword=sec]
+                                                 
+Use '\newbibmacro' to define this macro.
+
+! Undefined control sequence.
+\abx@sstr@byeditor ->\lbx@bytypeeditor 
+                                       
+l.110 \printbibliography[heading=sec,keyword=sec]
+                                                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! Package biblatex Error: Bibliography macro 'publisher+location+year' undefine
+d.
+
+See the biblatex package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.110 \printbibliography[heading=sec,keyword=sec]
+                                                 
+Use '\newbibmacro' to define this macro.
+
+! Undefined control sequence.
+\abx@sstr@byeditor ->\lbx@bytypeeditor 
+                                       
+l.110 \printbibliography[heading=sec,keyword=sec]
+                                                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! Package biblatex Error: Bibliography macro 'publisher+location+year' undefine
+d.
+
+See the biblatex package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.110 \printbibliography[heading=sec,keyword=sec]
+                                                 
+Use '\newbibmacro' to define this macro.
+
+
+! Package biblatex Error: Bibliography macro 'publisher+location+year' undefine
+d.
+
+See the biblatex package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.110 \printbibliography[heading=sec,keyword=sec]
+                                                 
+Use '\newbibmacro' to define this macro.
+
+
+! Package biblatex Error: Bibliography macro 'publisher+location+year' undefine
+d.
+
+See the biblatex package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.110 \printbibliography[heading=sec,keyword=sec]
+                                                 
+Use '\newbibmacro' to define this macro.
+
+
+! Package biblatex Error: Bibliography macro 'publisher+location+year' undefine
+d.
+
+See the biblatex package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.110 \printbibliography[heading=sec,keyword=sec]
+                                                 
+Use '\newbibmacro' to define this macro.
+
+
+! Package biblatex Error: Bibliography macro 'publisher+location+year' undefine
+d.
+
+See the biblatex package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.110 \printbibliography[heading=sec,keyword=sec]
+                                                 
+Use '\newbibmacro' to define this macro.
+
+
+Overfull \hbox (0.74477pt too wide) in paragraph at lines 110--110
+[]\T1/cmr/m/n/12 Hans W. Schaller. \T1/cmr/m/it/12 Der amerikanis-che Ro-man de
+s 20. Jahrhun-derts\T1/cmr/m/n/12 . Uni-Wissen
+ []
+
+! Undefined control sequence.
+\abx@sstr@byeditor ->\lbx@bytypeeditor 
+                                       
+l.110 \printbibliography[heading=sec,keyword=sec]
+                                                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! Package biblatex Error: Bibliography macro 'publisher+location+year' undefine
+d.
+
+See the biblatex package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.110 \printbibliography[heading=sec,keyword=sec]
+                                                 
+Use '\newbibmacro' to define this macro.
+
+
+! Package biblatex Error: Bibliography macro 'publisher+location+year' undefine
+d.
+
+See the biblatex package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.110 \printbibliography[heading=sec,keyword=sec]
+                                                 
+Use '\newbibmacro' to define this macro.
+
+
+! LaTeX Error: \begin{center} on input line 59 ended by \end{mla}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.111 \end{mla}
+               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 112.
+[3]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 112.
  (./NewYork.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 67.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 67.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 112.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 112.
 Package rerunfilecheck Info: File `NewYork.out' has not changed.
-(rerunfilecheck)             Checksum: 9BAE52F507B490F7BBB8966DC3042703;108.
+(rerunfilecheck)             Checksum: 90F6A804AB3A1FCF326EDB02A038607A;946.
 Package logreq Info: Writing requests to 'NewYork.run.xml'.
 \openout1 = `NewYork.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 67.
  ) 
 Here is how much of TeX's memory you used:
- 15750 strings out of 493633
- 243090 string characters out of 3143377
- 465299 words of memory out of 3000000
- 18775 multiletter control sequences out of 15000+200000
- 24966 words of font info for 32 fonts, out of 3000000 for 9000
+ 15608 strings out of 493629
+ 241021 string characters out of 3143323
+ 461047 words of memory out of 3000000
+ 18628 multiletter control sequences out of 15000+200000
+ 20310 words of font info for 58 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 54i,5n,74p,962b,1724s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/local/texlive/2011/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2011/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/
-2011/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2011/texmf
--dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2011/texmf-dist/font
-s/type1/urw/times/utmri8a.pfb>
-Output written on NewYork.pdf (5 pages, 53472 bytes).
+ 54i,8n,51p,846b,1687s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/local/texlive/2011/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
+</usr/local/texlive/2011/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></
+usr/local/texlive/2011/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></us
+r/local/texlive/2011/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/
+local/texlive/2011/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/lo
+cal/texlive/2011/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb></usr/loca
+l/texlive/2011/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb></usr/local/
+texlive/2011/texmf-dist/fonts/type1/public/cm-super/sfsx1728.pfb></usr/local/te
+xlive/2011/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texl
+ive/2011/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on NewYork.pdf (5 pages, 167630 bytes).
 PDF statistics:
- 85 PDF objects out of 1000 (max. 8388607)
- 73 compressed objects within 1 object stream
- 26 named destinations out of 1000 (max. 500000)
- 17 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 152 PDF objects out of 1000 (max. 8388607)
+ 134 compressed objects within 2 object streams
+ 31 named destinations out of 1000 (max. 500000)
+ 97 words of extra memory for PDF output out of 10000 (max. 10000000)
 
