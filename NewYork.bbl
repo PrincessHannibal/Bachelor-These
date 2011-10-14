@@ -16,7 +16,7 @@
   {}
 \endgroup
 
-\entry{maggie}{article}{}
+\entry{maggie}{book}{}
   \name{author}{1}{}{%
     {{}%
      {Crane}{C.}%
@@ -32,10 +32,7 @@
   \strng{fullhash}{CS1}
   \field{sortinit}{C}
   \true{singletitle}
-  \field{number}{3}
-  \field{pages}{123\bibrangedash 125}
   \field{title}{Maggie: A Girl of the Streets and Other Tales of New York}
-  \field{journaltitle}{Zur linguistischen Begr{\"u}dung}
   \field{year}{2000}
 \endentry
 
@@ -269,6 +266,29 @@
   \field{year}{1984}
 \endentry
 
+\entry{transfer}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Passos}{P.}%
+     {John~Dos}{J.~D.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Mariner Books}%
+  }
+  \keyw{prim}
+  \strng{namehash}{PJD1}
+  \strng{fullhash}{PJD1}
+  \field{sortinit}{P}
+  \true{singletitle}
+  \field{title}{Manhattan Transfer}
+  \list{location}{1}{%
+    {Boston}%
+  }
+  \field{year}{2000}
+\endentry
+
 \entry{urbanspace}{book}{}
   \name{author}{1}{}{%
     {{}%
@@ -347,6 +367,52 @@
     {Chicago}%
   }
   \field{year}{1984}
+\endentry
+
+\entry{mirth}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Wharton}{W.}%
+     {Edith}{E.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford World's Classic}%
+  }
+  \keyw{prim}
+  \strng{namehash}{WE1}
+  \strng{fullhash}{WE1}
+  \field{sortinit}{W}
+  \true{singletitle}
+  \field{title}{The House of Mirth}
+  \list{location}{1}{%
+    {Oxford}%
+  }
+  \field{year}{2008}
+\endentry
+
+\entry{bread}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Yezierska}{Y.}%
+     {Anzia}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Persea Books}%
+  }
+  \keyw{prim}
+  \strng{namehash}{YA1}
+  \strng{fullhash}{YA1}
+  \field{sortinit}{Y}
+  \true{singletitle}
+  \field{title}{Bread Givers}
+  \list{location}{1}{%
+    {New York}%
+  }
+  \field{year}{2003}
 \endentry
 
 \entry{portrait}{book}{}
